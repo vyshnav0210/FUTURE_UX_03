@@ -8,7 +8,7 @@ ClientFlow CRM is a modern Customer Relationship Management (CRM) dashboard desi
 
 ### Dashboard Overview
 
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Screenshot/Dashboard.png)
 
 ---
 
