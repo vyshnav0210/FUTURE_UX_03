@@ -79,11 +79,11 @@ The dashboard allows users to:
 
 ### Figma Design File
 
-PASTE YOUR FIGMA DESIGN LINK HERE
+https://www.figma.com/design/538ojYyJoi0Jl2bX78aRft/Task-3?node-id=0-1&t=Bm56h8PxhepluZk2-1
 
 ### Interactive Prototype
 
-PASTE YOUR FIGMA PROTOTYPE LINK HERE
+https://www.figma.com/proto/538ojYyJoi0Jl2bX78aRft/Task-3?node-id=0-1&t=Bm56h8PxhepluZk2-1
 
 
 ## 👨‍💻 Designed By
